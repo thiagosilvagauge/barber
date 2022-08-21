@@ -1,0 +1,8 @@
+{
+  "name": "Barber",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "454e7fbf"
+}
